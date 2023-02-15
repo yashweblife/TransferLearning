@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/yashweblife/TransferLearning#readme",
   "dependencies": {
+    "@tensorflow-models/knn-classifier": "^1.2.4",
     "@tensorflow-models/mobilenet": "^2.1.0",
     "@tensorflow/tfjs": "^4.2.0"
   },
