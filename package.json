@@ -1,0 +1,24 @@
+{
+  "name": "transferlearning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashweblife/TransferLearning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashweblife/TransferLearning/issues"
+  },
+  "homepage": "https://github.com/yashweblife/TransferLearning#readme",
+  "dependencies": {
+    "@tensorflow-models/mobilenet": "^2.1.0",
+    "@tensorflow/tfjs": "^4.2.0"
+  }
+}
